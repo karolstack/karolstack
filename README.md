@@ -1,61 +1,26 @@
-<div align="center">
-
 # Karol Rincón
 
-### Full Stack Developer · UI Enthusiast · 3D Artist
+### Full Stack Developer & Creative Technologist
 
-Construyendo cosas desde los 12 años porque aparentemente los hobbies normales nunca fueron una opción.
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=F65F59&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;UI%2FUX+Lover;3D+Artist;Always+Building+Something" />
-
-</div>
+Diseño experiencias digitales, construyo aplicaciones web y convierto ideas raras en proyectos reales.
 
 ---
 
-## Sobre mí
+## Actualmente
 
-```javascript
-const karol = {
-    location: "Colombia",
-    role: "Full Stack Developer",
-    experience: "Programando desde los 12 años",
-    
-    code: [
-        "JavaScript",
-        "TypeScript",
-        "Python",
-        "Java",
-        "HTML",
-        "CSS"
-    ],
+🛠️ Desarrollando proyectos Full Stack
 
-    technologies: {
-        frontend: [
-            "React",
-            "Next.js",
-            "Tailwind",
-            "GSAP"
-        ],
+🎨 Diseñando interfaces modernas
 
-        backend: [
-            "Node.js",
-            "Express",
-            "MongoDB",
-            "MySQL"
-        ],
+⚡ Experimentando con animaciones y microinteracciones
 
-        tools: [
-            "Git",
-            "GitHub",
-            "Figma",
-            "Blender"
-        ]
-    },
+📚 Estudiando Ingeniería de Sistemas
 
-    currentFocus: [
-        "Web Development",
-        "Creative Development",
-        "UI Design",
-        "Interactive Experiences"
-    ]
-};
+---
+
+## Tecnologías
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,java,mysql,mongodb,git,github,figma,blender,vscode&theme=dark" />
+</p>
+
